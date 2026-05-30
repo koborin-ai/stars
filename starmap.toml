@@ -1,0 +1,17 @@
+order = [
+  "🌱 Focus: Learning",
+  "⭐ Focus: Watching",
+  "🤖 AI Frameworks",
+  "🦾 Agent Tools",
+  "📱 Mobile",
+  "🌐 Web",
+  "☁️ Cloud & DevOps",
+  "🗄️ Databases",
+  "⚡ Low-level & Perf",
+  "🛠️ Dev Tools",
+  "📚 References",
+  "🎉 Other",
+]
+
+[llms_full]
+max_readme_size_kb = 10
