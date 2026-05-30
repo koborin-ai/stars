@@ -19,6 +19,7 @@
 - [🛠️ Dev Tools](#dev-tools)
 - [📚 References](#references)
 - [🎉 Other](#other)
+- [Uncategorized](#uncategorized)
 
 ## 🤖 AI Frameworks
 
@@ -732,4 +733,8 @@
 - [tronghieuit/tiny-tts](https://github.com/tronghieuit/tiny-tts) - The Smallest English TTS Model with only 1M parameters
 - [vercel/geist-font](https://github.com/vercel/geist-font) - No description provided
 - [ZenAI-Vietnam/ComfyUI-Kontext-Inpainting](https://github.com/ZenAI-Vietnam/ComfyUI-Kontext-Inpainting) - Flux Kontext Inpainting ComfyUI Implementation
+
+## Uncategorized
+
+- [nozomi-koborinai/starmap](https://github.com/nozomi-koborinai/starmap) - ⭐️ Generate Awesome Lists from your GitHub Stars, organized by Lists
 

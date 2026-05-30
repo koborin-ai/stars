@@ -556,6 +556,7 @@
 - [nkzw-tech/codiff](https://github.com/nkzw-tech/codiff): a fast local diff viewer
 - [No-Instructions/Relay](https://github.com/No-Instructions/Relay): Multiplayer Mode for Obsidian 
 - [nozomi-koborinai/contextlint](https://github.com/nozomi-koborinai/contextlint): 📏 Rule-based linter for structured Markdown documents
+- [nozomi-koborinai/starmap](https://github.com/nozomi-koborinai/starmap): ⭐️ Generate Awesome Lists from your GitHub Stars, organized by Lists
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim): A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim): Find, Filter, Preview, Pick. All lua, all the time.
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua): A file explorer tree for neovim written in lua
@@ -637,6 +638,7 @@
 - [google/dotguides](https://github.com/google/dotguides)
 - [google/eng-practices](https://github.com/google/eng-practices): Google's Engineering Practices documentation
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code): A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+- [koborin-ai/stars](https://github.com/koborin-ai/stars): 🌟 A personal library of GitHub stars — catalogued by topic, refreshed by starmap
 - [kzhrknt/awesome-design-md-jp](https://github.com/kzhrknt/awesome-design-md-jp): 日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography.
 - [little-hands/ddd-q-and-a](https://github.com/little-hands/ddd-q-and-a): DDD質問箱 回答記録
 - [mahimairaja/voiceai](https://github.com/mahimairaja/voiceai): Set of 📝 with 🔗 to help those building Voice AI agents 🎙️🤖
