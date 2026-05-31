@@ -92,6 +92,7 @@
 - [dabit3/agent-hooks-in-depth](https://github.com/dabit3/agent-hooks-in-depth)
 - [dart-lang/skills](https://github.com/dart-lang/skills)
 - [DataDog/pup](https://github.com/DataDog/pup): Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products.
+- [datahub-project/datahub](https://github.com/datahub-project/datahub): The Context Platform for your Data and AI Stack
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates): CLI tool for configuring and monitoring Claude Code
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync): A Utility CLI for AI Coding Agents
 - [eliasecchig/gemini-cli-git](https://github.com/eliasecchig/gemini-cli-git): Turn your Git repository into a self-improving autonomous agent. Open issues to assign tasks, review PRs, merge to teach. Gemini is the brain, Git is the backend.
@@ -328,10 +329,14 @@
 - [schultek/jaspr](https://github.com/schultek/jaspr): Modern web framework for building websites in Dart. Supports SPAs, SSR and SSG.
 - [seydx/node-av](https://github.com/seydx/node-av): FFmpeg bindings for Node.js. Features both low-level and high-level APIs, full hardware acceleration, TypeScript support, and modern async patterns
 - [shikijs/shiki](https://github.com/shikijs/shiki): A beautiful yet powerful syntax highlighter
+- [SoraKumo001/satoru](https://github.com/SoraKumo001/satoru)
 - [squirrelchat/smol-toml](https://github.com/squirrelchat/smol-toml): A small, fast, and correct TOML (1.1.0) parser and serializer
 - [standardagents/arrow-js](https://github.com/standardagents/arrow-js): The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution.
 - [team-mirai/marumie](https://github.com/team-mirai/marumie): 政治資金の流れを透明性を持って公開するプラットフォームです
 - [team-mirai/policy](https://github.com/team-mirai/policy)
+- [textlint-ja/textlint-rule-ja-no-mixed-period](https://github.com/textlint-ja/textlint-rule-ja-no-mixed-period): 文末の句点(。)の統一 と 抜けをチェックするtextlintルール
+- [textlint-ja/textlint-rule-no-doubled-joshi](https://github.com/textlint-ja/textlint-rule-no-doubled-joshi): 文中に同じ助詞が複数出てくるのをチェックするtextlintルール
+- [textlint-ja/textlint-rule-no-synonyms](https://github.com/textlint-ja/textlint-rule-no-synonyms): 同義語を表記ゆれをチェックするtextlintルール
 - [textlint-ja/textlint-rule-preset-ja-technical-writing](https://github.com/textlint-ja/textlint-rule-preset-ja-technical-writing): 技術文書向けのtextlintルールプリセット
 - [tmikov/hermes-node](https://github.com/tmikov/hermes-node): Node.js built-in module compatibility layer for the Hermes JS engine
 - [twentyhq/twenty](https://github.com/twentyhq/twenty): The open alternative to Salesforce, designed for AI.
@@ -365,6 +370,7 @@
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare): Cloudflare Terraform Provider
 - [dagger/dagger](https://github.com/dagger/dagger): Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [dagucloud/dagu](https://github.com/dagucloud/dagu): Local-first workflow engine with a Web UI for small teams. Define DAGs in a declarative YAML format. Self-contained and no DBMS required. Use any AI agent to manage your DAGs.
+- [datahub-project/datahub](https://github.com/datahub-project/datahub): The Context Platform for your Data and AI Stack
 - [dsherret/gagen](https://github.com/dsherret/gagen): Generate complex GitHub Actions YAML files using a declarative API.
 - [firebase/firebase-admin-dart](https://github.com/firebase/firebase-admin-dart): 🔥 A Firebase Admin SDK for Dart.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks): Find secrets with Gitleaks 🔑
@@ -616,6 +622,7 @@
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit): A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [yuki-yano/zeno.zsh](https://github.com/yuki-yano/zeno.zsh): zsh fuzzy completion and utility plugin with Deno.
 - [yuuichieguchi/Calyx](https://github.com/yuuichieguchi/Calyx): A macOS 26+ native terminal application
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool): ALL IN ONE Hacking Tool For Hackers
 - [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git): cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin): A plugin to edit and view Excalidraw drawings in Obsidian
 
@@ -675,6 +682,7 @@
 - [heyhey1028/aizap](https://github.com/heyhey1028/aizap): AI Nutritionist & Coaching 
 - [ideoforms/AbletonOSC](https://github.com/ideoforms/AbletonOSC): Control Ableton Live via Open Sound Control (OSC)
 - [isucon/isucon14](https://github.com/isucon/isucon14)
+- [KanadeSisido/curry](https://github.com/KanadeSisido/curry): 我が家のカレーの作り方
 - [karpathy/llm-council](https://github.com/karpathy/llm-council): LLM Council works together to answer your hardest questions
 - [koborin-ai/brand](https://github.com/koborin-ai/brand): ✨ Visual identity & brand assets for koborin-ai — icon, lockups, palette, typography, voice
 - [koborin-ai/site](https://github.com/koborin-ai/site): 🧪 Personal site and technical proving ground on GCP
@@ -696,7 +704,7 @@
 - [p-e-w/heretic](https://github.com/p-e-w/heretic): Fully automatic censorship removal for language models
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine): On-device wake word detection powered by deep learning
 - [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS): Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe): YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe): YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure
 - [shi3z/auto-excitement](https://github.com/shi3z/auto-excitement): Browser GUI on top of facebook/tribev2: video → fsaverage5 fMRI prediction with timeline, brain renders, and ffmpeg cut tooling.
 - [soundTricker/personalized-podcast-platform](https://github.com/soundTricker/personalized-podcast-platform)
 - [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop): ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
