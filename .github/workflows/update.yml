@@ -2,7 +2,7 @@ name: Update Awesome List
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # daily at 00:00 UTC (09:00 JST)
+    - cron: '0 1 * * *'  # daily at 01:00 UTC (10:00 JST)
   workflow_dispatch:
 
 permissions:
