@@ -160,6 +160,7 @@
 - [laiso/cman](https://github.com/laiso/cman): Agentic Memory for Claude Code
 - [Lamatic/AgentKit](https://github.com/Lamatic/AgentKit): Ready to Deploy Fullstack OpenSource Agentic Apps 
 - [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc): Expose llms-txt to IDEs for development
+- [langfuse/skills](https://github.com/langfuse/skills): Agent Skills for Langfuse, the open source LLM engineering platform for tracing, prompt management, and evaluation
 - [lapras-inc/lapras-mcp-server](https://github.com/lapras-inc/lapras-mcp-server): lapras.com 公式MCP Server
 - [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research):  ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
 - [leehack/mcp_dart](https://github.com/leehack/mcp_dart): Dart implementation of MCP SDK
@@ -192,6 +193,7 @@
 - [nyosegawa/skills](https://github.com/nyosegawa/skills)
 - [obra/superpowers](https://github.com/obra/superpowers): An agentic skills framework & software development methodology that works.
 - [open-gitagent/opengap](https://github.com/open-gitagent/opengap): A framework-agnostic, git-native standard for defining AI agents
+- [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber): Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
 - [openai/codex](https://github.com/openai/codex): Lightweight coding agent that runs in your terminal
 - [openai/codex-action](https://github.com/openai/codex-action)
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc): Use Codex from Claude Code to review code or delegate tasks.
@@ -227,6 +229,7 @@
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts): Scripts for agents, shared between my repositories.
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server): Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI assistant access to profiles, companies, jobs, and messages.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli): An open-source coding agent for the Grok API
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory): Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 - [tanaikech/ToolsForMCPServer-extension](https://github.com/tanaikech/ToolsForMCPServer-extension): Simplified Google Workspace Automation with Gemini CLI Extensions
 - [tesla0225/mcp-a2a](https://github.com/tesla0225/mcp-a2a)
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC): Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
@@ -677,6 +680,7 @@
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 - [temporalio/awesome-temporal](https://github.com/temporalio/awesome-temporal): A curated list of awesome Temporal libraries and resources.
+- [tpiaggio/rag-presentation](https://github.com/tpiaggio/rag-presentation): RAG, embeddings, and multimodal exploration with Peruvian gastronomy. Internal team talk.
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md): A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [xavidop/awesome-genkit](https://github.com/xavidop/awesome-genkit): 🔥 List of Genkit talks, plugins, tools, examples & articles! Contributions welcome!
 
@@ -724,6 +728,7 @@
 - [nwiizo/nippo](https://github.com/nwiizo/nippo): 日報管理リポジトリ
 - [nwiizo/workspace_2026](https://github.com/nwiizo/workspace_2026): 🛠️ Build. Learn. Ship. (and mass produce it.) — Systems programming, distributed systems, and AI infrastructure.
 - [nyankotaro/claude-excel-markdown-reformatter](https://github.com/nyankotaro/claude-excel-markdown-reformatter)
+- [olilarkin/paulstretch-for-live](https://github.com/olilarkin/paulstretch-for-live): Ableton Live Extension embedding Paulstretch
 - [OpenMind/OM1](https://github.com/OpenMind/OM1): Modular AI runtime for robots
 - [p-e-w/heretic](https://github.com/p-e-w/heretic): Fully automatic censorship removal for language models
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine): On-device wake word detection powered by deep learning
