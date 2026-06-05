@@ -117,6 +117,7 @@
 - [eliasecchig/grocery-agent](https://github.com/eliasecchig/grocery-agent) - No description provided
 - [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 - [entireio/skills](https://github.com/entireio/skills) - ✨ Cross-agent skills that help coding agents use Entire context from Checkpoints, sessions, and git history to search past work, explain code, and hand off sessions.
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) - Manages Unified Access to Generative AI Services built on Envoy Gateway
 - [expo/skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
 - [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
 - [firebase/agent-skills](https://github.com/firebase/agent-skills) - Agent Skills for Firebase
@@ -133,6 +134,7 @@
 - [gemini-cli-extensions/sre](https://github.com/gemini-cli-extensions/sre) - SRE Extension to provide Site Reliability Engineering tools for CLI harness investigations (agy, Gemini CLI, claude, ..) on Google Cloud et al.
 - [genkit-ai/skills](https://github.com/genkit-ai/skills) - Agent Skills that teach AI coding agents how to build applications with the Genkit framework (JS/TS, Go, Dart).
 - [giginet/cc-plugin-catalog](https://github.com/giginet/cc-plugin-catalog) - Static site generator for Claude Code Plugin Marketplace repositories
+- [github/app](https://github.com/github/app) - This is the home for releases and issues for the GitHub Copilot app
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
 - [gomcpgo/api-wrapper-mcp](https://github.com/gomcpgo/api-wrapper-mcp) - Create MCP server for any API 
@@ -192,6 +194,7 @@
 - [minorun365/my-claude-code-settings](https://github.com/minorun365/my-claude-code-settings) - みのるんのClaude Code設定
 - [miyatti777/aipo](https://github.com/miyatti777/aipo) - AIPO (AI Product Owner) - GOALだけ伝えればAIが勝手に仕事を進める汎用問題解決システム
 - [mizchi/skills](https://github.com/mizchi/skills) - Agent skills by mizchi, distributed via APM
+- [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) - LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with Claude Code, OpenClaw, and any CLI agent.
 - [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
@@ -272,6 +275,7 @@
 - [android/appfunctions](https://github.com/android/appfunctions) - Android AppFunctions samples
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
+- [DenisovAV/flutter_gemma](https://github.com/DenisovAV/flutter_gemma) - The Flutter plugin allows running the Gemma AI model locally on a device from a Flutter application.
 - [DonutWare/Fladder](https://github.com/DonutWare/Fladder) - Fladder - A cross-platform Jellyfin Frontend built on top of Flutter.
 - [f-nakahara/flutter-clean-architecture](https://github.com/f-nakahara/flutter-clean-architecture) - No description provided
 - [felangel/equatable](https://github.com/felangel/equatable) - A Dart package that helps to implement value based equality without needing to explicitly override == and hashCode.
@@ -542,6 +546,7 @@
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [davidpham87/google-workspace-clj](https://github.com/davidpham87/google-workspace-clj) - Calling Google Workspace from Clojure.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
+- [discordeno/discordeno](https://github.com/discordeno/discordeno) - Discord API library for Node and Deno
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - Peek preview window for LSP locations in Neovim
 - [doccupine/cli](https://github.com/doccupine/cli) - Generate beautiful, ready-to-use documentation with just one CLI command – fast, simple, and open source. AI-ready.
@@ -725,6 +730,7 @@
 - [Antonnion/zenn-ai-hackathon](https://github.com/Antonnion/zenn-ai-hackathon) - No description provided
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
 - [auth0/auth-for-genai](https://github.com/auth0/auth-for-genai) - No description provided
+- [betweentwomidnights/sa3-ableton-extension](https://github.com/betweentwomidnights/sa3-ableton-extension) - this is my first ableton extension. trying to keep it tightly scoped here on github. 
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp 
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle) - Extended pickling support for Python objects
@@ -747,6 +753,7 @@
 - [kosukesaigusa/llm-as-a-judge-sample](https://github.com/kosukesaigusa/llm-as-a-judge-sample) - No description provided
 - [lfnovo/podcast-creator](https://github.com/lfnovo/podcast-creator) - A simple to use python library for creating podcasts with support for many LLM and TTS providers
 - [llmsresearch/paperbanana](https://github.com/llmsresearch/paperbanana) - Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation.
+- [magenta/magenta-realtime](https://github.com/magenta/magenta-realtime) - Magenta RealTime 2: An Open-Weights Live Music Model
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience 
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
