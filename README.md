@@ -74,11 +74,13 @@
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [addyosmani/agentic-seo](https://github.com/addyosmani/agentic-seo) - Agentic SEO / Agentic Engine Optimization (AEO) tools
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
-- [agentculture/culture](https://github.com/agentculture/culture) - The professional workspace for humans and AI agents
+- [agentculture/culture](https://github.com/agentculture/culture) - Culture turns isolated stochastic agents into cooperative, inspectable, improvable artificial colleagues.
 - [agentregistry-dev/agentregistry](https://github.com/agentregistry-dev/agentregistry) - Fast-track AI innovation with a centralized, trusted, curated registry
+- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [agentwasp/agentwasp](https://github.com/agentwasp/agentwasp) - The agent runtime built to operate.
+- [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) -  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
 - [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - No description provided
 - [airano-ir/skillhub](https://github.com/airano-ir/skillhub) - Open-source marketplace for AI Agent skills
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
@@ -102,9 +104,8 @@
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [classmethod/tsumiki](https://github.com/classmethod/tsumiki) - tsumiki
 - [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - No description provided
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-- [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) -  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
 - [csells/dotprompt_dart](https://github.com/csells/dotprompt_dart) - A Dart package for parsing .prompt files for use with LLMs.
 - [ctxrs/ctx](https://github.com/ctxrs/ctx) - Agentic Development Environment (ADE) for teams using multiple coding agents
 - [dabit3/agent-hooks-in-depth](https://github.com/dabit3/agent-hooks-in-depth) - No description provided
@@ -162,6 +163,7 @@
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
 - [IyadhKhalfallah/clauditor](https://github.com/IyadhKhalfallah/clauditor) - Stop Claude Code from burning through your quota in 20 minutes. Auto-rotates oversized sessions and preserves context.
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+- [jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) - 一个简单的本地网页界面，使用ChatTTS将文字合成为语音，同时支持对外提供API接口。A simple native web interface that uses ChatTTS to synthesize text into speech, along with support for external API interfaces.
 - [joe-re/eyes-on-claude-code](https://github.com/joe-re/eyes-on-claude-code) - Claude Code session monitoring application.
 - [K9i-0/ccpocket](https://github.com/K9i-0/ccpocket) - Mobile client for Codex and Claude — control coding agents from your phone via WebSocket bridge
 - [kazukinagata/shinkoku](https://github.com/kazukinagata/shinkoku) - 確定申告自動化 AI エージェントプラグイン — 帳簿管理から e-Tax 入力代行まで
@@ -246,6 +248,7 @@
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI assistant access to profiles, companies, jobs, and messages.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source coding agent for the Grok API
+- [superagent-ai/skills](https://github.com/superagent-ai/skills) - A collection of security skills
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 - [tanaikech/ToolsForMCPServer-extension](https://github.com/tanaikech/ToolsForMCPServer-extension) - Simplified Google Workspace Automation with Gemini CLI Extensions
 - [tesla0225/mcp-a2a](https://github.com/tesla0225/mcp-a2a) - No description provided
@@ -508,6 +511,7 @@
 - [m5stack/M5_Camera_Examples](https://github.com/m5stack/M5_Camera_Examples) - M5 camera series product examples.
 - [matrix-org/complement](https://github.com/matrix-org/complement) - Matrix compliance test suite
 - [myuron/graftx](https://github.com/myuron/graftx) - No description provided
+- [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
 - [probe-rs/probe-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
@@ -527,6 +531,7 @@
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [anthropics/anthropic-cli](https://github.com/anthropics/anthropic-cli) - The CLI for the Claude API
 - [Arjun544/flutter_init](https://github.com/Arjun544/flutter_init) - Generate a production-ready Flutter project in 60 seconds. Pick your architecture, state management & routing, we scaffold the rest.
+- [arthurtran01/flutter-debugger-plus](https://github.com/arthurtran01/flutter-debugger-plus) - No description provided
 - [arto-app/Arto](https://github.com/arto-app/Arto) - 🅰️ Arto — the Art of Reading Markdown.
 - [arto-app/arto.vim](https://github.com/arto-app/arto.vim) - A Vim/Neovim plugin to open Markdown files in Arto, a native macOS Markdown reader.
 - [azolfagharj/tmq](https://github.com/azolfagharj/tmq) - tmq is a lightweight, portable, cross-platform, and fully featured command-line TOML processor. Like jq for JSON and yq for YAML, tmq is for TOML.
