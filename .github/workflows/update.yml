@@ -14,6 +14,8 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - uses: dtolnay/rust-toolchain@stable
+      # Patch starmap until upstream fixes GraphQL RESOURCE_LIMITS_EXCEEDED.
+      # See patches/README.md.
       - name: Install starmap
         run: |
           git clone --depth 1 https://github.com/nozomi-koborinai/starmap /tmp/starmap
