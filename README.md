@@ -194,6 +194,7 @@
 - [little-hands/claude-drawio-skill](https://github.com/little-hands/claude-drawio-skill) - No description provided
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 - [martinemde/starship-claude](https://github.com/martinemde/starship-claude) - ✳ claude statusline via starship
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [mcollina/skills](https://github.com/mcollina/skills) - My own collection of skills for modern Node.js development
 - [mgechev/skillgrade](https://github.com/mgechev/skillgrade) - "Unit tests" for your agent skills
