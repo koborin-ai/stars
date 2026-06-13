@@ -87,7 +87,7 @@
 - [airano-ir/skillhub](https://github.com/airano-ir/skillhub) - Open-source marketplace for AI Agent skills
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-- [always-further/nono](https://github.com/always-further/nono) - Capability-based agent runtime with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency
+- [always-further/nono](https://github.com/always-further/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
 - [android/skills](https://github.com/android/skills) - No description provided
 - [andrzejchm/fdb](https://github.com/andrzejchm/fdb) - Flutter Debug Bridge - CLI for AI agents to interact with running Flutter apps on device
 - [ankushdixit/solokit](https://github.com/ankushdixit/solokit) - Session-Driven Development - Maintain perfect context across AI coding sessions with Claude Code
@@ -109,7 +109,7 @@
 - [classmethod/tsumiki](https://github.com/classmethod/tsumiki) - tsumiki
 - [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - No description provided
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [csells/dotprompt_dart](https://github.com/csells/dotprompt_dart) - A Dart package for parsing .prompt files for use with LLMs.
 - [ctxrs/ctx](https://github.com/ctxrs/ctx) - Agentic Development Environment (ADE) for teams using multiple coding agents
 - [dabit3/agent-hooks-in-depth](https://github.com/dabit3/agent-hooks-in-depth) - No description provided
@@ -129,6 +129,8 @@
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [flutter/skills](https://github.com/flutter/skills) - No description provided
 - [freee/freee-mcp](https://github.com/freee/freee-mcp) - Model Context Protocol (MCP) server for freee API integration
+- [fubak/ultraswarm](https://github.com/fubak/ultraswarm) - Multi-CLI agent swarm orchestrated by Claude Code: external AI CLIs code in isolated worktrees, Claude verifies and merges
+- [fujibee/agmsg](https://github.com/fujibee/agmsg) - Cross-vendor messaging for CLI AI coding agents — let Claude Code, Codex, Gemini & Copilot talk to each other in one team. Bash + SQLite, no daemon, no framework.
 - [gaearon/woodshed](https://github.com/gaearon/woodshed) - Create, run, rate, and iterate on your Claude Skills
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [geezerrrr/agent-town](https://github.com/geezerrrr/agent-town) - A pixel-art AI agent online collaboration platform.
@@ -172,7 +174,7 @@
 - [joe-re/eyes-on-claude-code](https://github.com/joe-re/eyes-on-claude-code) - Claude Code session monitoring application.
 - [K9i-0/ccpocket](https://github.com/K9i-0/ccpocket) - Mobile client for Codex and Claude — control coding agents from your phone via WebSocket bridge
 - [kazukinagata/shinkoku](https://github.com/kazukinagata/shinkoku) - 確定申告自動化 AI エージェントプラグイン — 帳簿管理から e-Tax 入力代行まで
-- [kazuph/reviw](https://github.com/kazuph/reviw) - Human-in-the-loop review interface for AI coding workflows
+- [kazuph/yunomi](https://github.com/kazuph/yunomi) - Human-in-the-loop review interface for AI coding workflows
 - [kevinrgu/autoagent](https://github.com/kevinrgu/autoagent) - autonomous harness engineering
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [kinopeee/cursorrules](https://github.com/kinopeee/cursorrules) - No description provided
@@ -257,9 +259,9 @@
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) - Official SonarQube MCP Server for code quality and security in AI agents
 - [sorafujitani/ccsession](https://github.com/sorafujitani/ccsession) - pick any past Claude Code session via fzf, then resume it from the right cwd
 - [sorafujitani/wez-cc-viewer](https://github.com/sorafujitani/wez-cc-viewer) - TUI dashboard for monitoring Claude Code instances across WezTerm workspaces
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
-- [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI assistant access to profiles, companies, jobs, and messages.
+- [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source coding agent for the Grok API
 - [superagent-ai/skills](https://github.com/superagent-ai/skills) - A collection of security skills
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software `⭐ Watching`
@@ -280,7 +282,7 @@
 - [William-Yeh/agent-skill-linter](https://github.com/William-Yeh/agent-skill-linter) - Lint agent skills for spec compliance and publishing readiness
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
 - [withastro/rosie](https://github.com/withastro/rosie) - Agent package manager
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 - [yohey-w/multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun) - Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.
 - [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) - Helping the Agents Compose the Things
@@ -535,6 +537,7 @@
 - [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) - No description provided
 - [grpc/grpc-ios](https://github.com/grpc/grpc-ios) - gRPC for iOS
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
+- [hotchpotch/mac-translate-cli](https://github.com/hotchpotch/mac-translate-cli) - Fast local macOS translation CLI powered by Apple's on-device Translation framework
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
 - [kythe/kythe](https://github.com/kythe/kythe) - Kythe is a pluggable, (mostly) language-agnostic ecosystem for building tools that work with code.
@@ -575,7 +578,7 @@
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [bitbonsai/notion2obsidian](https://github.com/bitbonsai/notion2obsidian) - High-performance CLI tool to migrate Notion exports to Obsidian-compatible markdown format
 - [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [cinar/resile](https://github.com/cinar/resile) - Resile is an ergonomic, type-safe execution resilience and retry library for Go. Inspired by Python’s stamina, it features generic execution wrappers, AWS Full Jitter backoff, native Retry-After header support, and zero-dependency observability for distributed systems.
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
@@ -601,6 +604,7 @@
 - [fluttertv/flutter-tvos](https://github.com/fluttertv/flutter-tvos) - Flutter CLI for building and running Flutter apps on Apple TV (tvOS)
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
+- [gajus/zod-compiler](https://github.com/gajus/zod-compiler) - Compile Zod schemas into zero-overhead validation functions at build time. Works with Vite, webpack, esbuild, Rollup, etc
 - [getgauge/gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
 - [gitbutlerapp/grit](https://github.com/gitbutlerapp/grit) - Reimplementing Git in Rust. Like a boss.
 - [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
@@ -611,6 +615,7 @@
 - [hakonharnes/img-clip.nvim](https://github.com/hakonharnes/img-clip.nvim) - Embed images into any markup language, like LaTeX, Markdown or Typst
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
+- [hotchpotch/mac-translate-cli](https://github.com/hotchpotch/mac-translate-cli) - Fast local macOS translation CLI powered by Apple's on-device Translation framework
 - [hrsh7th/cmp-nvim-lua](https://github.com/hrsh7th/cmp-nvim-lua) - nvim-cmp source for nvim lua
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [hynek/stamina](https://github.com/hynek/stamina) - Production-grade retries for Python
@@ -813,7 +818,7 @@
 - [nwiizo/workspace_2026](https://github.com/nwiizo/workspace_2026) - 🛠️ Build. Learn. Ship. (and mass produce it.) — Systems programming, distributed systems, and AI infrastructure.
 - [nyankotaro/claude-excel-markdown-reformatter](https://github.com/nyankotaro/claude-excel-markdown-reformatter) - No description provided
 - [olilarkin/paulstretch-for-live](https://github.com/olilarkin/paulstretch-for-live) - Ableton Live Extension embedding Paulstretch
-- [OpenMind/OM1](https://github.com/OpenMind/OM1) - Modular AI runtime for robots
+- [OpenMind/OM1](https://github.com/OpenMind/OM1) - Modular AI HAL (Hardware Abstraction Layer) for Robots
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
 - [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning.
